@@ -1,7 +1,7 @@
 # S&P 500 Stock Price Analysis
 
-![download](https://github.com/kchinna/SP500-Stock-Price-Analysis/assets/44681827/db1fd058-ae3d-47ec-b102-108c8db37208)
-<br><br>
+![image](https://github.com/kchinna/SP500-Stock-Price-Analysis/assets/40371365/bfe6d074-3d7e-4617-aa4d-cdae50411fb2)
+
 This is a project that analyzes stock prices on the S&amp;P 500 and predicts stock prices using Long Short-Term Memory modeling. As part of this process, the entire data science pipeline is followed:
 
 * Data Collection
